@@ -1,0 +1,44 @@
+h1{
+    color: rgba(24, 170, 170, 0.767);
+}
+
+.nav span{
+    color: rgb(177, 12, 61);
+}
+
+.jumbotron a {
+    color: rgb(30, 212, 136);
+}
+
+.blog-post hr {
+    background-color: red;
+}
+
+  .nav > span:nth-child(even){
+    color: rgb(117, 16, 212);
+}
+
+.p-4:nth-child(2) ol li {
+    border: 1px solid rgb(24, 157, 197)
+}
+
+.blog-post:nth-child(3) p:first-of-type a{
+    color:rgb(85, 172, 143)
+}
+
+.blog-post:last-of-type li:nth-child(2) {
+    color: rgb(218, 15, 76);
+}
+
+.float-right{
+    background-color: rgb(170, 121, 75);
+    color: aliceblue;
+}
+
+.btn.btn-outline-secondary{
+    border-color: aqua;
+}
+
+.text-center a:last-of-type {
+    color: rgb(199, 31, 31);
+}
